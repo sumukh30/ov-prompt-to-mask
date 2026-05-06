@@ -23,7 +23,6 @@ Open the self-contained demo notebook in Colab. Runs on **free T4 GPU** in ~8 mi
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/demo_pipeline.ipynb)
 
-> ✏️ Replace `YOUR_USERNAME/YOUR_REPO` above with your actual GitHub path after pushing.
 
 ---
 
