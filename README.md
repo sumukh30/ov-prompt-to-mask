@@ -228,8 +228,4 @@ The project includes a browser-based interactive demo.
   <a href="https://github.com/AILab-CVC/YOLO-World">YOLO-World</a> &nbsp;·&nbsp;
   <a href="https://github.com/facebookresearch/sam2">SAM-2</a> &nbsp;·&nbsp;
   <a href="https://github.com/VisDrone/VisDrone-Dataset">VisDrone</a>
-</p>YOLO test
-test
-YOLO badge test
-YOLO badge test
-Pair extraordinaire
+</p>
