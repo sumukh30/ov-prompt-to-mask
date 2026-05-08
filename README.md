@@ -21,7 +21,7 @@ Fine-tuning YOLO-World on VisDrone improved mAP@0.5 by **+177%** and made three 
 
 Open the self-contained demo notebook in Colab. Runs on **free T4 GPU** in ~8 minutes with no Drive mount or setup required.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tvwZq_ZlY-AJWpgSkvhv8LO-f_Ky54Zd)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vpzEDiRSTskR-AGvCiofpxodZ0AXLNHI)
 
 
 ---
