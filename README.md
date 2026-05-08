@@ -230,3 +230,4 @@ The project includes a browser-based interactive demo.
   <a href="https://github.com/VisDrone/VisDrone-Dataset">VisDrone</a>
 </p>YOLO test
 test
+YOLO badge test
