@@ -232,3 +232,4 @@ The project includes a browser-based interactive demo.
 test
 YOLO badge test
 YOLO badge test
+Pair extraordinaire
